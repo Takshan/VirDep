@@ -22,7 +22,6 @@ VirDep is a Python toolkit for bioinformaticians and virologists that enables th
 pip install virdep
 ```
 
-
 Or install from source:
 
 ```bash
@@ -31,8 +30,6 @@ cd virdep
 pip install -e .
 ```
 
-
-
 ## 🧠 Use Cases
 
 - Host factor identification for viruses (e.g. SARS-CoV-2, HIV, Influenza)
@@ -40,11 +37,11 @@ pip install -e .
 - Integration of transcriptomic data with known host-virus interactions
 - Hypothesis generation for experimental virology
 
-
-
 ## 🔍 Features
 
 - Analyze CRISPR/Cas9 or RNAi screen data
 - Integrate transcriptomic or proteomic datasets
 - Network-based ranking of host dependency genes
-  ...
+  .
+- coming soon...
+- ..
